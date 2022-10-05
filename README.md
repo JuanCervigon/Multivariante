@@ -1,2 +1,2 @@
 # Multivariante
-Repositorio del curso Análisis de datos Multivariantes
+Repositorio curso Análisis de datos Multivariantes
